@@ -48,6 +48,7 @@ The program validates user input, handles errors, and supports multiple conversi
 python currency_converter.py
 
 📁 Folder Structure
+
 currency-converter/
 │
 ├── README.md
@@ -56,7 +57,8 @@ currency-converter/
 └── assets/
     └── demo.gif   (optional)
 
-🎬 Demo GIF (optional)
+🎬 Demo GIF 
+
 Welcome to the Currency Converter!
 Available currencies: USD, EUR, GBP, BDT, INR, JPY
 
@@ -66,8 +68,6 @@ To currency: BDT
 
 ✅ $100.00 USD = ৳11,905.00 BDT
 
-
-To make a real GIF, record your screen running the program and add it to assets/demo.gif.
 
 👨‍💻 Author
 
